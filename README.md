@@ -48,7 +48,7 @@ Business intelligence reporting
 
 Portfolio demonstration for Data Analyst / BI roles
 1.Dashboard Preview
-![Mobile Sales Dashboard](Dashboard-Preview.png)
+![Mobile Sales Dashboard](Dashboard-preview.png)
 2.Project Statistics
 ![Project Stats](Project-Stats.png)
 3.Certification
